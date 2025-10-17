@@ -8,7 +8,7 @@ It was developed to explore computer vision concepts.
 ## Features
 - Detects moving objects from live webcam feed or video file
 - Highlights detected objects with bounding boxes
-- Uses frame differencing and contour detection
+- Uses frame differencing and contour detection.
 
 ---
 
